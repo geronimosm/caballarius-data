@@ -1,0 +1,3 @@
+Warning 1: GPX schema version is unknown. The driver may not be able to handle the file correctly and will behave as if it is GPX 1.1.
+Warning 1: GPX schema version is unknown. The driver may not be able to handle the file correctly and will behave as if it is GPX 1.1.
+Warning 1: GPX schema version is unknown. The driver may not be able to handle the file correctly and will behave as if it is GPX 1.1.
