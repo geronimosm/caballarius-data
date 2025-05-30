@@ -78,5 +78,45 @@
   {
     "name": "Carcaboso",
     "popup": "<b>Étape 20 : Carcaboso</b><br><br>🏘️ Petite ville active avec marché<br>🏨 Albergue Señora Elena – 13 €<br>🍴 Restaurant Cáparra – excellent menú del día."
+  },
+  {
+    "name": "Aldeanueva del Camino",
+    "popup": "<b>Étape 21 : Aldeanueva del Camino</b><br><br>🏞️ Joli village au bord d'une rivière<br>🏨 Albergue municipal – donativo<br>🍷 Bar Sebas réputé pour son menú del día"
+  },
+  {
+    "name": "Baños de Montemayor",
+    "popup": "<b>Étape 22 : Baños de Montemayor</b><br><br>♨️ Station thermale romaine<br>🏨 Albergue touristique – 15 €<br>🍴 Bar Carlos – accueil chaleureux, excellente cuisine"
+  },
+  {
+    "name": "Puerto de Béjar",
+    "popup": "<b>Étape 23 : Puerto de Béjar</b><br><br>⛰️ Village d'altitude avec vue panoramique<br>🏨 Albergue de Peregrinos – donativo<br>🌄 Départ magnifique le matin"
+  },
+  {
+    "name": "Calzada de Béjar",
+    "popup": "<b>Étape 24 : Calzada de Béjar</b><br><br>🛤️ Ancienne voie romaine<br>🏨 Albergue Alba y Soraya – 13 €<br>🍽️ Cuisine locale, cheminée, hospitalité"
+  },
+  {
+    "name": "Valverde de Valdelacasa",
+    "popup": "<b>Étape 25 : Valverde</b><br><br>🌿 Village calme<br>🏨 Albergue municipal – 12 €<br>🍴 Café local avec plats simples et savoureux"
+  },
+  {
+    "name": "Fuenterroble de Salvatierra",
+    "popup": "<b>Étape 26 : Fuenterroble</b><br><br>✝️ Accueil paroissial légendaire<br>🏨 Albergue Santa María – donativo<br>🕊️ Ambiance spirituelle et conviviale"
+  },
+  {
+    "name": "San Pedro de Rozados",
+    "popup": "<b>Étape 27 : San Pedro</b><br><br>🏘️ Petit village d’étape<br>🏨 Albergue Mari Carmen – 10 €<br>🍷 Hotel VII Carreras – bon restaurant"
+  },
+  {
+    "name": "Morille",
+    "popup": "<b>Étape 28 : Morille</b><br><br>📍 Carrefour des routes nord et sud<br>🏨 Albergue municipal – 10 €<br>🍴 Bar Marcos, lieu central et bon accueil"
+  },
+  {
+    "name": "Salamanque",
+    "popup": "<b>Étape 29 : Salamanque</b><br><br>🎓 Ville universitaire historique<br>🏨 Albergue Casa la Calera – donativo<br>🌆 Cathédrale, université, Plaza Mayor"
+  },
+  {
+    "name": "Calzada de Valdunciel",
+    "popup": "<b>Étape 30 : Calzada de Valdunciel</b><br><br>🚶 Petite ville après Salamanque<br>🏨 Albergue La Casa del Molinero – 15 €<br>🍲 Bons plats au restaurant El Pozo"
   }
 ]
