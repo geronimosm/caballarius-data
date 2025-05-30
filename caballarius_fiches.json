@@ -38,5 +38,45 @@
   {
     "name": "Torremejía",
     "popup": "<b>Étape 10 : Torremejía</b><br><br>Hameau paisible. Courte étape depuis Mérida.<br>🌻 Ambiance rurale authentique."
+  },
+  {
+    "name": "Mérida",
+    "popup": "<b>Étape 11 : Mérida</b><br><br>⚱️ Ville romaine par excellence – théâtre, pont et amphithéâtre romains.<br>🏨 Albergue municipal – 10 €<br>🎯 Visite du musée d’art romain recommandée."
+  },
+  {
+    "name": "Aljucén",
+    "popup": "<b>Étape 12 : Aljucén</b><br><br>🌿 Petite ville thermale.<br>🏨 Termas Aqua Libera – ambiance romaine, bains et massages.<br>🍷 Restaurant El Parque très apprécié."
+  },
+  {
+    "name": "Alcuéscar",
+    "popup": "<b>Étape 13 : Alcuéscar</b><br><br>⛪ Monastère des Esclaves de Marie – accueil simple et spirituel.<br>🏨 Donativo – hébergement dans le couvent.<br>🧘 Ambiance paisible et bienveillante."
+  },
+  {
+    "name": "Valdesalor",
+    "popup": "<b>Étape 14 : Valdesalor</b><br><br>🏘️ Petite ville moderne avec quelques services.<br>🏨 Albergue municipal – 6 €<br>🥐 Restaurant Repsol recommandé en sortie de village."
+  },
+  {
+    "name": "Cáceres",
+    "popup": "<b>Étape 15 : Cáceres</b><br><br>🏰 Vieille ville classée UNESCO<br>🏨 Albergue Las Veletas – 18 €<br>🍽️ Tapas sous les arcades de la Plaza Mayor."
+  },
+  {
+    "name": "Casar de Cáceres",
+    "popup": "<b>Étape 16 : Casar de Cáceres</b><br><br>🧀 Ville connue pour son fromage<br>🏨 Albergue municipal – 6 €<br>🧭 Musée du Queso à visiter en soirée."
+  },
+  {
+    "name": "Cañaveral",
+    "popup": "<b>Étape 17 : Cañaveral</b><br><br>📍 Ville en hauteur, ruelles en escalier.<br>🏨 Albergue moderne – 16 €<br>🍳 Churrería Los Arcos – bon petit-déjeuner dès 7h."
+  },
+  {
+    "name": "Grimaldo",
+    "popup": "<b>Étape 18 : Grimaldo</b><br><br>🏡 Village en retrait<br>🍽️ Bar Grimaldo reconnu<br>🛌 Posada de Grimaldo – très bon confort, 25–35 €"
+  },
+  {
+    "name": "Galisteo",
+    "popup": "<b>Étape 19 : Galisteo</b><br><br>🏰 Ville fortifiée<br>🛏️ Hostal Emigrantes – 20–30 €<br>🍞 Boulangerie dans les murs historiques."
+  },
+  {
+    "name": "Carcaboso",
+    "popup": "<b>Étape 20 : Carcaboso</b><br><br>🏘️ Petite ville active avec marché<br>🏨 Albergue Señora Elena – 13 €<br>🍴 Restaurant Cáparra – excellent menú del día."
   }
 ]
