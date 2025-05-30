@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Séville",
+    "popup": "<b>Étape 1 : Séville</b><br><br>🏘️ Capitale andalouse – départ de la Vía de la Plata.<br>✝️ Départ officiel : Cathédrale de Séville<br>🏨 Triana Backpackers – 16 €<br>🍽️ Churros, tapas, Alcazar, Giralda..."
+  },
+  {
+    "name": "Guillena",
+    "popup": "<b>Étape 2 : Guillena</b><br><br>Premier bourg rural du chemin. Bon bar au centre.<br>🏨 Albergue Luz del Camino – 12 €<br>Calme, ambiance champêtre."
+  },
+  {
+    "name": "Castilblanco de los Arroyos",
+    "popup": "<b>Étape 3 : Castilblanco</b><br><br>Petit village blanc. Peu de commerces.<br>🌙 Bonne zone pour bivouac discret à l’extérieur."
+  },
+  {
+    "name": "Almadén de la Plata",
+    "popup": "<b>Étape 4 : Almadén</b><br><br>Entouré de collines, village typique.<br>🏨 Albergue local – 12 lits<br>🍽️ Bar Central pour le plat du jour."
+  },
+  {
+    "name": "El Real de la Jara",
+    "popup": "<b>Étape 5 : El Real de la Jara</b><br><br>Village médiéval avec château en ruine.<br>✨ Vue exceptionnelle au lever du jour."
+  },
+  {
+    "name": "Monesterio",
+    "popup": "<b>Étape 6 : Monesterio</b><br><br>Connu pour son jambon ibérique.<br>🏨 Albergue – 10 €<br>🎯 Musée du jambon en centre-ville."
+  },
+  {
+    "name": "Fuente de Cantos",
+    "popup": "<b>Étape 7 : Fuente de Cantos</b><br><br>Ville natale du peintre Zurbarán.<br>🎨 Maison-musée à visiter.<br>🍽️ Bons petits-déjeuners autour de la place."
+  },
+  {
+    "name": "Zafra",
+    "popup": "<b>Étape 8 : Zafra</b><br><br>Ville fortifiée avec architecture mauresque.<br>🏨 Hostal Carmen – 30 €<br>🌆 Plaza Grande animée en soirée."
+  },
+  {
+    "name": "Villafranca de los Barros",
+    "popup": "<b>Étape 9 : Villafranca</b><br><br>Région viticole.<br>🍷 Dégustation possible chez Bodegas Toribio.<br>🏨 Hôtel El Jardín – calme et jardin intérieur."
+  },
+  {
+    "name": "Torremejía",
+    "popup": "<b>Étape 10 : Torremejía</b><br><br>Hameau paisible. Courte étape depuis Mérida.<br>🌻 Ambiance rurale authentique."
+  }
+]
